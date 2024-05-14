@@ -12,7 +12,6 @@ Runs the app in the development mode.\
 Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
 
 The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 <img width="1424" alt="Screen Shot 2024-05-13 at 6 50 56 PM" src="https://github.com/Harshitha2606/user-request-service/assets/151476392/9415ae42-a5b9-462e-a775-3a17566df4a5">
 
